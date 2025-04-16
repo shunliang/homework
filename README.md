@@ -191,6 +191,9 @@ How to Run
     4. (optional) build the project
 
         git clone https://github.com/shunliang/homework.git
+
+        NOTE: update the password at src/main/resources/database.properties
+
         mvn clean install
 
         # to run unit tests
